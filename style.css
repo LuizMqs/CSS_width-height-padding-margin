@@ -1,0 +1,13 @@
+body {
+    display: flex;
+    justify-content: center;
+}
+
+.box {
+    height: 400px;
+    width: 400px;
+    margin: auto;
+    padding-left: 20px;
+    border: solid 2px black;
+    border-radius: 7px;
+}
